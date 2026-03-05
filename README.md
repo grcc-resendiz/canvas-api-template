@@ -1,13 +1,31 @@
 # Canvas API Template
 
-A minimal template project for connecting to Canvas API and modifying courses. Ready to fork and use in a dev container.
+## 🚀 Quick Start (Recommended)
+
+1. Click **Use this template** on GitHub
+2. Create your new repository
+3. Open it in **Codespaces**
+4. Add your Canvas credentials
+
+   Go to:
+   Settings → Secrets and variables → Codespaces
+
+   Create these secrets:
+
+   CANVAS_URL  
+   CANVAS_TOKEN  
+   COURSE_ID
+
+5. Run the template:
+
+python canvas_template.py
 
 ## Prerequisites
 
 - Canvas instance with API access enabled
 - API token from your Canvas account
 
-## Setup
+## Full Setup with Detailed Instructions
 
 ### 1. Clone or Fork
 ```bash

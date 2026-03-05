@@ -36,7 +36,7 @@ cd canvas-api-template
 #### Option A: Codespaces Secrets (Recommended for Codespaces)
 If using GitHub Codespaces, use encrypted secrets for secure credential storage:
 
-1. Go to your GitHub repo → Settings → Secrets and variables → Codespaces
+1. Go back to your GitHub repo, not in Codespaces. Then do this: → Settings → Secrets and variables → Codespaces
 2. Create new secrets:
    - `CANVAS_URL`
    - `CANVAS_TOKEN`
